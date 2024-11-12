@@ -1,0 +1,3 @@
+* WEB REST API
+
+This is me, trying to make a rest api in common lisp.
